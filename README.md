@@ -44,9 +44,9 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
  CI/CD (GitHub Actions)
 
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raseldev007&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseldev007&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=raseldev007&label=Profile%20views)
+![GitHub followers](https://img.shields.io/github/followers/raseldev007?label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/raseldev007?label=Stars)
 
 
 ⭐ If you like my work, feel free to follow and connect!
