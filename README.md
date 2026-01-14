@@ -3,8 +3,8 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
 
 - 📍 Dhaka, Bangladesh
 - 🌐 Portfolio: https://raseldev007.github.io/My-portfolio/
-- 💼 LinkedIn: <PUT_YOUR_LINKEDIN_LINK_HERE>
-- ✉️ Email: <PUT_YOUR_EMAIL_HERE>
+- 💼 LinkedIn: <www.linkedin.com/in/md-rasel-m007>
+- ✉️ Email: <raselofficial89@gmail.com>
 
 ---
 
