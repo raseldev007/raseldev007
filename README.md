@@ -31,12 +31,11 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
 
 
 
-### ✅ What I care about
- Clean Architecture & maintainable code
- Smooth UI/UX and responsive layouts
- Performance, caching, and real device testing
- Building complete apps (not just demos)
-
+#✅ What I care about
+- Clean architecture & maintainable code
+- Smooth UI/UX and responsive layouts
+- Performance, caching, and real device testing
+- Building complete apps (not just demos)
 
 
 ### 📌 Currently Improving
@@ -45,9 +44,9 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
  CI/CD (GitHub Actions)
 
 
-
-### 📊 GitHub Stats
+📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raseldev007&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseldev007&layout=compact)
+
 
 ⭐ If you like my work, feel free to follow and connect!
