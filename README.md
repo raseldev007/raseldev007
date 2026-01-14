@@ -22,20 +22,19 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
   Repo: https://github.com/raseldev007/amar_bari_app
 
 
-### 🧰 Tech Stack
- **Mobile:** Flutter, Dart  
- **Backend:** Firebase (Auth, Firestore, Storage, Cloud Functions)  
- **API:** REST APIs, JSON, Dio  
- **State Management:** Provider
- **Tools:** Git, GitHub, VS Code, Postman
+### ✅ What I care about
+ Clean architecture & maintainable code
+ Smooth UI/UX and responsive layouts
+ Performance, caching, and real device testing
+ Building complete apps (not just demos)
 
 
 
 #✅ What I care about
-- Clean architecture & maintainable code
-- Smooth UI/UX and responsive layouts
-- Performance, caching, and real device testing
-- Building complete apps (not just demos)
+ Clean architecture & maintainable code
+ Smooth UI/UX and responsive layouts
+ Performance, caching, and real device testing
+ Building complete apps (not just demos)
 
 
 ### 📌 Currently Improving
