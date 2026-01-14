@@ -26,7 +26,7 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
  **Mobile:** Flutter, Dart  
  **Backend:** Firebase (Auth, Firestore, Storage, Cloud Functions)  
  **API:** REST APIs, JSON, Dio  
- **State Management:** Provider (add BLoC/Riverpod if you use it)  
+ **State Management:** Provider
  **Tools:** Git, GitHub, VS Code, Postman
 
 
