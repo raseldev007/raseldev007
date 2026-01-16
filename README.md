@@ -40,7 +40,8 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
 ### 📌 Currently Improving
  Testing (unit + widget)
  Better app architecture patterns
- CI/CD (GitHub Actions)
+ CI/CD (GitHub Actions),
+ 
  API Integration
 
 
