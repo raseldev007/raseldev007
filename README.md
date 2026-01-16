@@ -41,6 +41,7 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
  Testing (unit + widget)
  Better app architecture patterns
  CI/CD (GitHub Actions)
+ API Integration
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raseldev007&label=Profile%20views)
