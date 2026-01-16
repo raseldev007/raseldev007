@@ -26,7 +26,7 @@ Flutter Developer focused on building clean, scalable mobile apps with real-worl
  Clean architecture & maintainable code
  Smooth UI/UX and responsive layouts
  Performance, caching, and real device testing
- Building complete apps (not just demos)
+ Building complete apps.
 
 
 
