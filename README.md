@@ -43,4 +43,4 @@ Email: <raselofficial89@gmail.com>
 ![GitHub stars](https://img.shields.io/github/stars/raseldev007?label=Stars)
 
 
-⭐ If you like my work, feel free to follow and connect!
+If you like my work, feel free to follow and connect!
