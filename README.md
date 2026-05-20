@@ -12,7 +12,7 @@ Email: <raselofficial874@gmail.com>
 
 ### Featured Projects
  **Portfolio Website** — My projects, skills, and resume  
-  Live: https://raseldev007.github.io/My-portfolio/
+  Live: https://raseldev007.github.io/My-portfolio/](https://rasel007dev.vercel.app/
 
  **Weather BD** — Bangladesh-focused weather app (API integration + clean UI)  
   
