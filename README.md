@@ -5,7 +5,7 @@ Dhaka, Bangladesh
 
 Portfolio: <https://rasel007dev.vercel.app/>
 
-LinkedIn: <www.linkedin.com/in/md-rasel-m007>
+LinkedIn: www.linkedin.com/in/md-rasel-m007
 
 Email: <raselofficial874@gmail.com>
 
